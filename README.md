@@ -98,10 +98,11 @@ admin:matiricie
 ## 📊 Kullanıcı Arayüzü (UI)
 
 ### 🎨 Ana Sayfa  
-[![UI Screenshoot](https://i.hizliresim.com/85p9x7a.png)](https://hizliresim.com/85p9x7a)
+![UI Screenshoot](public/images/ui.png)
+
 
 ### 📊 Yoğunluk Analizi  
-[![Analytics Screenshot](https://i.hizliresim.com/jdn46f8.png)](https://hizliresim.com/jdn46f8)
+[![Analytics Screenshot](public/images/kat.png)
 
 ---
 
